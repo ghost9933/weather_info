@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": 42.2,
+        "lat": 42.1
+    },
+    "weather": [{
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01n"
+    }],
+    "base": "stations",
+    "main": {
+        "temp": 71.6,
+        "feels_like": 66.9,
+        "temp_min": 71.6,
+        "temp_max": 71.6,
+        "pressure": 1022,
+        "humidity": 49
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 9.17,
+        "deg": 250
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1603376485,
+    "sys": {
+        "type": 1,
+        "id": 8856,
+        "country": "GE",
+        "sunrise": 1603337517,
+        "sunset": 1603376340
+    },
+    "timezone": 14400,
+    "id": 612126,
+    "name": "Japana",
+    "cod": 200
+}
